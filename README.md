@@ -3,8 +3,7 @@ Miao/Mameaw
 1650902669
 Krasirit Pairotamonchai
 Kung
-<<<<<<< HEAD
 1650900382
-Theeradon kaewnok Peet 1660904515
-=======
->>>>>>> peet
+Theeradon kaewnok 
+Peet
+1660904515
